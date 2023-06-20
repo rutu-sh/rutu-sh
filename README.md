@@ -1,7 +1,7 @@
 ### Namaste! :pray:
 
 
-- 🔭 I’m currently working on DataOps and MLOps
+- 🔭 I’m currently working on MLOps
 - 🌱 I’m currently learning Kubernetes
 - 📑 Currently researching on: [Github - rutu-sh/player-compatibality-in-dota2-using-graph-neural-networks](https://github.com/rutu-sh/player-compatibality-and-win-pred-in-dota2-using-graph-neural-networks)
 - 📫 How to reach me: [LinkedIn - @rutu-sh](https://www.linkedin.com/in/rutu-sh/)
