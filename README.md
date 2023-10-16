@@ -21,6 +21,6 @@ I am working on a research for predicting win probability and player compatibili
 <div width="100%" align="center"><a href="https://github.com/rutu-sh/player-compatibality-and-win-pred-in-dota2-using-graph-neural-networks" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rutu-sh&repo=player-compatibality-and-win-pred-in-dota2-using-graph-neural-networks&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 ## Experiments with Algorithmic Trading
-Checkout my contribution in writing Expert Advisors and Indicators for Algorithmic Trading in Meta Trader 5 here: [Github - ceevaaa/AlgoTrading](https://github.com/ceevaaa/AlgoTrading)
+Checkout my contribution in writing Expert Advisors and Indicators for Algorithmic Trading in Meta Trader 5.
 
 <div width="100%" align="center"><a href="https://github.com/ceevaaa/AlgoTrading" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ceevaaa&repo=AlgoTrading&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
