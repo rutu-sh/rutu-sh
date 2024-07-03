@@ -10,15 +10,6 @@
 
 ## Bootstrapping with Kubernetes
 
-<!-- I'm writing a book for those who want to start with Kubernetes and want to explore how the entire Kubernetes ecosystem functions with different tools. This is also an effort to help others appreciate the elegance of Kubernetes. The book is available [here](https://rutu-sh.github.io/bootstrapping-with-kubernetes/). -->
-
-<!-- [![created with https://socialify.git.ci/](./assets/bootstrapping-with-kubernetes.svg)](https://rutu-sh.github.io/bootstrapping-with-kubernetes/) -->
-
-<!-- <div style="display: flex; justify-content: space-between;">
-
-
-</div> -->
-
 <table>
   <tr>
     <td>
@@ -30,7 +21,7 @@
     </td>
     <td>
       <div>
-        <a href="https://github.com/rutu-sh/cloudlab-ebpf">
+        <a href="https://rutu-sh.github.io/bootstrapping-with-kubernetes/">
           <img src="./assets/bootstrapping_with_k8s_1.jpg" alt="Project 3" style="width: 100%;border: 2px solid #000; border-radius: 15px">
         </a>
       </div>
