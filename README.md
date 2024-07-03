@@ -15,19 +15,28 @@
 <!-- [![created with https://socialify.git.ci/](./assets/bootstrapping-with-kubernetes.svg)](https://rutu-sh.github.io/bootstrapping-with-kubernetes/) -->
 
 <!-- <div style="display: flex; justify-content: space-between;">
-  <div>
-    <p>
-      I'm writing a book for those who want to start with Kubernetes and want to explore how the entire Kubernetes ecosystem functions with different tools. This is also an effort to help others appreciate the elegance of Kubernetes. The book is available <a href="https://rutu-sh.github.io/bootstrapping-with-kubernetes/">here</a>.
-    </p>
-  </div>
-  <div>
-    <a href="https://github.com/rutu-sh/cloudlab-ebpf">
-      <img src="./assets/bootstrapping_with_k8s.jpg" alt="Project 3" style="width: 100%;border: 2px solid #000; border-radius: 15px">
-    </a>
-  </div>
+
+
 </div> -->
 
-[View Flexbox Layout](./content.html)
+<table>
+  <tr>
+    <td>
+      <div>
+        <p>
+          I'm writing a book for those who want to start with Kubernetes and want to explore how the entire Kubernetes ecosystem functions with different tools. This is also an effort to help others appreciate the elegance of Kubernetes. The book is available <a href="https://rutu-sh.github.io/bootstrapping-with-kubernetes/">here</a>.
+        </p>
+      </div>
+    </td>
+    <td>
+      <div>
+        <a href="https://github.com/rutu-sh/cloudlab-ebpf">
+          <img src="./assets/bootstrapping_with_k8s.jpg" alt="Project 3" style="width: 100%;border: 2px solid #000; border-radius: 15px">
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
 
 ## CloudLab Projects 
 
