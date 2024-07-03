@@ -40,52 +40,60 @@
 
 ## CloudLab Projects 
 
-<!-- create a grid of three columns, each column will contain an svg -->
-<!-- each svg will be a link to the respective project -->
-<!-- the svg will be created using https://socialify.git.ci/ -->
+These are a few projects and tools I have been developing for researchers to work with different technologies on CloudLab. 
 
-<div style="display: flex; justify-content: space-between;">
-  <div>
-    <!-- Link and SVG for Project 1 -->
-    <a href="https://github.com/rutu-sh/cloudlab-tools">
-      <img src="./assets/cloudlab_tools.jpg" alt="Project 1" style="width: 92%; border: 2px solid #000; border-radius: 15px;">
-    </a>
-  </div>
-  <div>
-    <!-- Link and SVG for Project 2 -->
-    <a href="https://github.com/rutu-sh/cloudlab-template">
-      <img src="./assets/cloudlab_template.jpg" alt="Project 2" style="width: 92%;border: 2px solid #000; border-radius: 15px;">
-    </a>
-  </div>
-</div>
-<div style="display: flex; justify-content: space-between;">
-  <div>
-    <!-- Link and SVG for Project 2 -->
-    <a href="https://github.com/rutu-sh/cloudlab-kubernetes">
-      <img src="./assets/cloudlab_k8s.jpg" alt="Project 2" style="width: 92%;border: 2px solid #000; border-radius: 15px;">
-    </a>
-  </div>
-  <div>
-    <!-- Link and SVG for Project 3 -->
-    <a href="https://github.com/rutu-sh/cloudlab-ebpf">
-      <img src="./assets/cloudlab_ebpf.jpg" alt="Project 3" style="width: 92%;border: 2px solid #000; border-radius: 15px;">
-    </a>
-  </div>
-</div>
-
+<table>
+  <tr>
+    <td>
+      <div align="center">
+        <a href="https://github.com/rutu-sh/cloudlab-tools">
+          <img src="./assets/cloudlab_tools.jpg" alt="Project 1" style="width: 92%; border: 2px solid #000; border-radius: 15px;">
+        </a>
+      </div>
+    </td>
+    <td>
+      <div align="center">
+        <a href="https://github.com/rutu-sh/cloudlab-template">
+          <img src="./assets/cloudlab_template.jpg" alt="Project 2" style="width: 92%;border: 2px solid #000; border-radius: 15px;">
+        </a>
+      </div>
+    </td>
+  </tr>
+    <tr>
+    <td>
+      <div align="center">
+        <a href="https://github.com/rutu-sh/cloudlab-kubernetes">
+          <img src="./assets/cloudlab_k8s.jpg" alt="Project 2" style="width: 92%;border: 2px solid #000; border-radius: 15px;">
+        </a>
+      </div>
+    </td>
+    <td>
+      <div align="center">
+        <a href="https://github.com/rutu-sh/cloudlab-ebpf">
+          <img src="./assets/cloudlab_ebpf.jpg" alt="Project 3" style="width: 92%;border: 2px solid #000; border-radius: 15px;">
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
 
 ## OpenTelemetry and Kubernetes
 
-<div style="display: flex; justify-content: space-between;">
-  <div>
-    <!-- Link and SVG for Project 3 -->
-    <a href="https://github.com/rutu-sh/cloudlab-ebpf">
-      <img src="./assets/otel_k8s.jpg" alt="Project 3" style="width: 100%;border: 2px solid #000; border-radius: 15px">
-    </a>
-  </div>
-  <div style="margin: 20px">
-    <p>
-     Kubernetes and Opentelemetry are the two widely used CNCF projects. I'm doing some experiments with setting up Opentelemetry in a variety of configurations inside a Kubernetes cluster. 
-    </p>
-  </div>
-</div>
+<table>
+  <tr>
+    <td>
+      <div>
+        <a href="https://github.com/rutu-sh/cloudlab-ebpf">
+          <img src="./assets/otel_k8s.jpg" alt="Project 3" style="width: 100%;border: 2px solid #000; border-radius: 15px">
+        </a>
+      </div>
+    </td>
+    <td>
+      <div>
+        <p>
+         Kubernetes and Opentelemetry are the two widely used CNCF projects. I'm doing some experiments with setting up Opentelemetry in a variety of configurations inside a Kubernetes cluster. 
+        </p>
+      </div>
+    </td>
+  </tr>
+</table>
