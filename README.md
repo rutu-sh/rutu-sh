@@ -31,7 +31,7 @@
     <td>
       <div>
         <a href="https://github.com/rutu-sh/cloudlab-ebpf">
-          <img src="./assets/bootstrapping_with_k8s.jpg" alt="Project 3" style="width: 100%;border: 2px solid #000; border-radius: 15px">
+          <img src="./assets/bootstrapping_with_k8s_1.jpg" alt="Project 3" style="width: 100%;border: 2px solid #000; border-radius: 15px">
         </a>
       </div>
     </td>
