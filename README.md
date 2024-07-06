@@ -74,7 +74,7 @@ These are a few projects and tools I have been developing for researchers to wor
   <tr>
     <td>
       <div>
-        <a href="https://github.com/rutu-sh/cloudlab-ebpf">
+        <a href="[https://github.com/rutu-sh/cloudlab-ebpf](https://github.com/rutu-sh/otel-k8s-experiments)">
           <img src="./assets/otel_k8s.jpg" alt="Project 3" style="width: 100%;border: 2px solid #000; border-radius: 15px">
         </a>
       </div>
