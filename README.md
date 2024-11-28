@@ -3,10 +3,10 @@
 
 - 🔭 I’m currently researching on eBPF and Database Security
 - 🌱 I’m currently learning eBPF and Kubernetes
-- 📑 Currently working on: [rutu-sh/bootstrapping-with-kubernetes](https://github.com/rutu-sh/bootstrapping-with-kubernetes)
+- 📑 Currently working on: [k8s.rutu-sh.com](https://k8s.rutu-sh.com)
 - 📫 How to reach me: [LinkedIn - @rutu-sh](https://www.linkedin.com/in/rutu-sh/)
 
-**Know more about me at [rutu-sh.github.io](https://rutu-sh.github.io/)**
+**Know more about me at [me.rutu-sh.com](https://me.rutu-sh.com)**
 
 ## Bootstrapping with Kubernetes
 
@@ -15,13 +15,13 @@
     <td>
       <div>
         <p>
-          I'm writing a book for those who want to start with Kubernetes and want to explore how the entire Kubernetes ecosystem functions with different tools. This is also an effort to help others appreciate the elegance of Kubernetes. The book is available <a href="https://rutu-sh.github.io/bootstrapping-with-kubernetes/">here</a>.
+          I'm writing a book for those who want to start with Kubernetes and want to explore how the entire Kubernetes ecosystem functions with different tools. This is also an effort to help others appreciate the elegance of Kubernetes. The book is available <a href="https://k8s.rutu-sh.com">here</a>.
         </p>
       </div>
     </td>
     <td>
       <div>
-        <a href="https://rutu-sh.github.io/bootstrapping-with-kubernetes/">
+        <a href="https://k8s.rutu-sh.com">
           <img src="./assets/bootstrapping_with_k8s_1.jpg" alt="Project 3" style="width: 100%;border: 2px solid #000; border-radius: 15px">
         </a>
       </div>
