@@ -1,8 +1,8 @@
 ### Namaste! :pray:
 
 
-- 🔭 I’m currently researching on eBPF and Database Security
-- 🌱 I’m currently learning eBPF and Kubernetes
+- 🔭 I’m currently writing my own implementation of Docker ([procman](https://github.com/rutu-sh/procman) and [procmand](https://github.com/rutu-sh/procmand)), will use this to write my own Kubernetes. 
+- 🌱 I’m currently learning Operating Systems 
 - 📑 Currently working on: [k8s.rutu-sh.com](https://k8s.rutu-sh.com)
 - 📫 How to reach me: [LinkedIn - @rutu-sh](https://www.linkedin.com/in/rutu-sh/)
 
